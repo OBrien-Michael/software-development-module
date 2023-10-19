@@ -1,0 +1,39 @@
+The New Boston: https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw
+
+Free online Java course: https://java-programming.mooc.fi/
+
+https://www.udemy.com/course/java-the-complete-java-developer-course/
+
+https://www.coursera.org/specializations/java-programming
+
+SE Documentation: http://www.oracle.com/technetwork/java/javase/documentation/index.html
+The Java tutorials: http://docs.oracle.com/javase/tutorial/
+
+https://docs.oracle.com/en/java/javase/21/index.html
+
+https://www.youtube.com/c/AlexLeeYT
+
+https://www.youtube.com/watch?v=eIrMbAQSU34&ab_channel=ProgrammingwithMosh
+
+https://greenteapress.com/thinkapjava/html/index.html
+
+
+Recommended Reading
+
+Liang, Y. D.
+2021
+Introduction to Java Programming and Data Structures -  12th ed.
+Prentice Hall
+978-1292402079
+
+Horstmann, C.
+2021
+Core Java, Vol 1 – 12th ed.
+Addison Wesley
+978-0137673629
+
+Sierra, K. et al
+2022
+Head First Java – 3rd ed.
+O’ Reilly
+978-1491910771
